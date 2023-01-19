@@ -1132,7 +1132,7 @@ ul.portfolio-image li .desc{
   list-style: outside none none;
   float: left;
   overflow: hidden;
-  width: 33.33333%;
+  width: 100%;
   font-size: 13px;
 }
 
@@ -1180,24 +1180,27 @@ ul.portfolio-image li .desc{
   transform: translateY(100%);
 }
 
-.facebook{
+.LinkedIn{
   background: #969696;
   /*padding: 20px 0;*/
 }
-.facebook a:after{
-  background-color: #527bbb;
+.LinkedIn a:after{
+  background-color: #0072b1;
 }
-.twitter{
-  background: #ABABAB;
+
+.GitHub{
+  background: #969696;
+  /*padding: 20px 0;*/
 }
-.twitter a:after{
-  background-color: #77ccf1;
+.GitHub a:after{
+  background-color: #0072b1;
 }
-.gplus{
-  background: #d8d8d8;
+.Credily{
+  background: #969696;
+  /*padding: 20px 0;*/
 }
-.gplus a:after{
-  background: #dd4b39;
+.Credily a:after{
+  background-color: #0072b1;
 }
 
 .footer-bottom{
