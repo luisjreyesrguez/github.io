@@ -1132,7 +1132,7 @@ ul.portfolio-image li .desc{
   list-style: outside none none;
   float: left;
   overflow: hidden;
-  width: 100%;
+  width: 33.3333%;
   font-size: 13px;
 }
 
@@ -1188,19 +1188,19 @@ ul.portfolio-image li .desc{
   background-color: #0072b1;
 }
 
-.GitHub{
+.curriculum{
   background: #969696;
   /*padding: 20px 0;*/
 }
-.GitHub a:after{
-  background-color: #0072b1;
+.curriculum a:after{
+  background-color: #51949c;
 }
 .Credily{
   background: #969696;
   /*padding: 20px 0;*/
 }
 .Credily a:after{
-  background-color: #0072b1;
+  background-color: #F36C21;
 }
 
 .footer-bottom{
